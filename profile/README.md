@@ -1,4 +1,4 @@
-# 해당 Organization 은 HomeCloud 구축을 위한 기본 배포환경입니다.
+## 해당 Organization 은 HomeCloud 구축을 위한 기본 배포환경입니다.
 
 해당 repo 는 private 으로 설정되어있어 일반 사용자는 볼 수 없습니다.
 
